@@ -1,3 +1,5 @@
+package pbstest;
+
 public class qwe {
     public static void main(String[] args) {
         int i;
